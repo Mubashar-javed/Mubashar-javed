@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashar-javed&label=Profile%20views&color=0e75b6&style=flat" alt="mubashar-javed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubashar-javed" alt="mubashar-javed" /></a> </p>
-
 - 🔭 I’m currently working on **my personal projects.**
 
 - 🌱 I’m currently learning **Rust and C++**
