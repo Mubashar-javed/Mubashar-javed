@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashar-javed&show_icons=true&locale=en&layout=compact" alt="mubashar-javed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mubashar-javed&show_icons=true&locale=en&include_all_commits=true" alt="mubashar-javed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mubashar-javed&&include_all_commits=true&count_private=true" alt="mubashar-javed" /></p>
